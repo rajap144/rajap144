@@ -194,11 +194,11 @@ Developer
 
 ---
 
-## 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajap144&theme=tokyo-night&hide_border=true&area=true" />
+
 
 </div>
 
@@ -208,7 +208,11 @@ Developer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajap144/rajap144/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajap144/rajap144/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajap144/rajap144/output/github-contribution-grid-snake.svg">
+  <img alt="Raja Prasad's GitHub contribution snake" src="https://raw.githubusercontent.com/rajap144/rajap144/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -216,11 +220,13 @@ Developer
 
 ---
 
-## 🏆 GitHub Achievements
+📊 Developer Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajap144&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajap144&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Raja's GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajap144&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Raja's Top Languages"/>
 
 </div>
 
